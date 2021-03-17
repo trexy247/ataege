@@ -21,4 +21,4 @@ I'm a high school student who is trying to be backend developer.
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: ataegeasilturk@gmail.com
 
-[![Ata Ege Asiltürk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataegeasilturk)](https://github.com/ataegeasilturk/ataegeasilturk)
+[![Ata Ege Asiltürk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataegeasilturk&count_private=true)](https://github.com/ataegeasilturk/ataegeasilturk)
