@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Who am I?
 I'm a high school student who is trying to be backend developer.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about anything you want 
+- 📫 How to reach me: ataegeasilturk@gmail.com
