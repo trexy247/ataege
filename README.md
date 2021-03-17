@@ -20,3 +20,5 @@ I'm a high school student who is trying to be backend developer.
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: ataegeasilturk@gmail.com
+
+[Ata Ege Asiltürk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataegeasilturk)
