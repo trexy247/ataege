@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a high school student who is trying to be backend developer.
 
-- 🔭 I’m currently working on [Kominity](https://github.com/orgs/Kominity)
+- 🔭 I’m currently working on [crew22](https://github.com/orgs/crew22)
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: ataegeasilturk@gmail.com
