@@ -21,7 +21,7 @@ I'm a high school student who is trying to be backend developer.
 - 💬 Ask me about anything you want 
 - 📫 How to reach me: ataegeasilturk@gmail.com
 - 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ataegeasilturk&label=Profile%20views&color=1fbcff&style=flat" alt="ataegeasilturk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ataegeasilturk&label=Profile%20views&color=1fbcff&style=flat" alt="ataegeasilturk" /> </p>
 
 [![Ata Ege Asiltürk's GitHub stats](https://camo.githubusercontent.com/09dca46aac7f12e74d9ef282dd406c475a11fc12000f0b6e47dca4c4fc301fb0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6174616567656173696c7475726b2673686f775f69636f6e733d74727565266c6f63616c653d656e)](https://github.com/ataegeasilturk/ataegeasilturk)
 
