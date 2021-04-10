@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm a high school student who is trying to be backend developer.
 
 - 🔭 I’m currently working on [crew22](https://github.com/orgs/crew22)
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about anything you want 
-- 📫 How to reach me: ataegeasilturk@gmail.com
+- 📫 How to reach me: **ataegeasilturk@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataegeasilturk&label=Profile%20views&color=1fbcff&style=flat" alt="ataegeasilturk" /> </p>
 
