@@ -23,6 +23,8 @@ I'm a high school student who is trying to be backend developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
 
-[![Ata Ege Asiltürk's GitHub stats](https://camo.githubusercontent.com/09dca46aac7f12e74d9ef282dd406c475a11fc12000f0b6e47dca4c4fc301fb0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6174616567656173696c7475726b2673686f775f69636f6e733d74727565266c6f63616c653d656e)](https://github.com/ataege/ataege)
-
-[![Ata Ege Asiltürk's Most Used Languages](https://camo.githubusercontent.com/160de82f0c79cbb922682b169f6e2c67f1066a21b90db7f30ea38b7f4708cd73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6174616567656173696c7475726b2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)]((https://github.com/ataege/ataege))
+<details>
+  <summary>My Metrics</summary>
+  <br>
+  ![Metrics](https://metrics.lecoq.io/ataege?template=classic&isocalendar=1&languages=1&habits=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&config.timezone=Europe%2FIstanbul)
+</details>
