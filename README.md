@@ -1,26 +1,29 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**ataegeasilturk/ataegeasilturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 In most of my free I'm trying to learn new techs.
 
-Here are some ideas to get you started:
+👨🏻‍🎓 I'm high school student and going to study software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a high school student who is trying to be backend developer.
+🎮 I love playing sing player story, action and FPS games and not a good shooter 😔 on Valorant.
 
-- 🔭 I’m currently working on [crew22](https://github.com/orgs/crew22)
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about anything you want 
-- 📫 How to reach me: **ataegeasilturk@gmail.com**
+🏎️ I love watching and talking about F1.
 
+#### Which techs I use?
+
+<img src="https://img.shields.io/badge/Node.js-589F4B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"> <img src="https://img.shields.io/badge/.NET-8456C7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity%20(Soon)-F7F7F7?style=for-the-badge&logo=unity&logoColor=black" alt="C#">
+
+#### Contact me!
+<a href="https://discord.com/users/320280473932922893" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"> 
+</a>
+<a href="mailto:ataegeasilturk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"> 
+</a>
+<a href="https://twitter.com/ataegeasilturk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="mail"> 
+</a>
+<br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
 
 <details>
