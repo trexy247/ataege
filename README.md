@@ -19,6 +19,10 @@
 <a href="https://twitter.com/ataegeasilturk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="mail"> 
 </a>
+<a href="https://steamcommunity.com/id/ataegeasilturk" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-27528D?style=for-the-badge&logo=steam&logoColor=white" alt="mail"> 
+</a>
+
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
