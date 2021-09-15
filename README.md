@@ -1,12 +1,9 @@
 ### Hello World!
 
-👨🏻‍💻 In most of my free I'm trying to learn new techs.
-
-👨🏻‍🎓 I'm high school student and going to study software engineering.
-
-🎮 I love playing sing player story, action and FPS games and not a good shooter 😔 on Valorant.
-
-🏎️ I love watching and talking about F1.
+- 👀 __**Name**__: Ata Ege Asiltürk
+- 🖥️ **Who?**: I'm a Turkish high school student who loves codding.
+- 🤿 **Learning:** Unity
+- 🎮🏎️ **Interests:** Playing single player, action and FPS games (not a good shooter 😔 on Valorant). Watching and talking about F1.
 
 #### Which techs I use?
 
