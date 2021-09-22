@@ -1,7 +1,7 @@
 ### Hello World!
 
 - 👀 __**Name**__: Ata Ege Asiltürk
-- 🖥️ **Who?**: I'm a Turkish high school student who loves codding.
+- 🖥️ **Who?**: I'm a Turkish high school student who loves to code.
 - 🤿 **Learning:** Unity
 - 🎮🏎️ **Interests:** Playing single player, action and FPS games (not a good shooter 😔 on Valorant). Watching and talking about F1.
 
