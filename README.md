@@ -27,6 +27,9 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/320280473932922893)](https://discord.com/users/320280473932922893)
+
+
 <details>
   <summary>My Metrics</summary>
   <br>
