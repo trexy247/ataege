@@ -27,11 +27,11 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/320280473932922893)](https://discord.com/users/320280473932922893)
+[![Discord Presence](https://lanyard.cnrad.dev/api/320280473932922893?animated=true&bg=2C2F33&hideDiscrim=true)](https://discord.com/users/320280473932922893)
 
 
 <details>
   <summary>My Metrics</summary>
   <br>
-  <img src="https://metrics.lecoq.io/ataege?template=classic&isocalendar=1&languages=1&habits=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&config.timezone=Europe%2FIstanbul">
+  <img src="https://metrics.lecoq.io/ataege?template=terminal&languages=1&people=1&repositories=1&lines=1&achievements=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FIstanbul">
 </details>
