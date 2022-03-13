@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Node.js-589F4B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">  <img src="https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"> <img src="https://img.shields.io/badge/Javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"> <img src="https://img.shields.io/badge/.NET-8456C7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Golang-69D7E2?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
 
 #### Contact me!
-<a href="https://discord.com/users/320280473932922893" target="_blank">
+<a href="https://discord.com/users/661983101601185813" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"> 
 </a>
 <a href="mailto:ataegeasilturk@gmail.com" target="_blank">
